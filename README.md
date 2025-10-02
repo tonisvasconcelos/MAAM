@@ -6,6 +6,8 @@ A comprehensive React-based management system for Brazilian Jiu-Jitsu academies,
 
 📱 **Features**: Students Management, Multi-language (EN/PT), Responsive Design
 
+🔧 **Status**: Deployed via GitHub Actions
+
 ## Features
 
 ### Core Modules
