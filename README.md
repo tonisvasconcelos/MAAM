@@ -4,6 +4,8 @@ A comprehensive React-based management system for Brazilian Jiu-Jitsu academies,
 
 🚀 **Live Demo**: https://tonisvasconcelos.github.io/MAAM/
 
+📱 **Features**: Students Management, Multi-language (EN/PT), Responsive Design
+
 ## Features
 
 ### Core Modules
