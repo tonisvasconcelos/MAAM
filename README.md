@@ -2,6 +2,8 @@
 
 A comprehensive React-based management system for Brazilian Jiu-Jitsu academies, built with TypeScript, Tailwind CSS, and modern web technologies.
 
+🚀 **Live Demo**: https://tonisvasconcelos.github.io/MAAM/
+
 ## Features
 
 ### Core Modules
